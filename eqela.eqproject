@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SwitchingScene
+#
+
+projectname: SwitchingScene
+vendorid: com.mycompany
+mainmodule: com.mycompany.switchingscene
